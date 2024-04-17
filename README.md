@@ -1,4 +1,4 @@
-<h1 align="center">MD. SHAHARIAR SHOVOON</h1>
+<h1 align="center">MD. SHAHARIAR SHOVON</h1>
 <h3 align="center">Final year EEE Undergrad student at BUET</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuk3nd0&label=Profile%20views&color=0e75b6&style=flat" alt="ryuk3nd0" /> </p>
